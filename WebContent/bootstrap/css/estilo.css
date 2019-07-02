@@ -1,0 +1,43 @@
+/* Menu*/
+
+#nav {
+    margin-bottom: 1%;
+    background-color: rgb(19, 19, 107);
+    padding: 10px;
+    font-size: 15px;
+    
+}
+
+div#menu-op a {
+    color: rgb(0, 0, 0)!important;
+}
+
+div#menu-op a:hover {
+    color: rgb(255, 10, 10)!important;
+}
+
+#nav a {
+    color: rgb(255, 255, 255);
+}
+
+#nav a:hover {
+    color: rgb(255, 10, 10);
+}
+
+
+/* Formulário*/
+
+div#form {
+    margin-top: 5%;
+    border: 1px solid rgba(0, 0, 0, 0.219);
+    border-radius: 15px;
+    padding: 2%;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.349);
+    background-color: rgba(194, 182, 182, 0.815);
+}
+
+body{
+    background-image: url("../../Images/background-3.png");
+    background-attachment: fixed;
+    background-size: cover; 
+}
